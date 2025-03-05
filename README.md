@@ -1,6 +1,6 @@
 <br>
 
-![BUDDING-FULL-STACK-DEVELOPER](https://github.com/itsjazz10/itsjazz10/github-header-image)
+![BUDDING-FULL-STACK-DEVELOPER](https://github.com/itsjazz10/itsjazz10/assets/105977672/github-header-image)
 
 <br>
 <h2 color="#ffffff" align="left">Hello 👋, I'm Jharna Anghore</h2>
